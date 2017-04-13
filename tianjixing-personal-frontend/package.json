@@ -1,0 +1,29 @@
+{
+  "name": "tianjixing-personal-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "@dlghq/pace-progress": "^1.0.3",
+    "inline-style-linter": "^0.2.8",
+    "offline-js": "^0.7.18",
+    "radium": "^0.18.1",
+    "radium-plugin-linter": "^1.0.1",
+    "radium-sanitize": "^4.1.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-fastclick": "^2.1.2",
+    "react-s-alert": "^1.2.0",
+    "react-scroll": "^1.4.4",
+    "recompose": "^0.20.2",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
